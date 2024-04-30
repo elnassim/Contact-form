@@ -76,8 +76,8 @@ form .message textarea{
   padding-left: 47px;
   border: 2px solid #0D6EFD;
 }
-.field input:focus ~ i,
-.message textarea:focus ~ i{
+form .field input:focus ~ i,
+form .message textarea:focus ~ i{
   color: #0D6EFD;
 }
 form .message{
